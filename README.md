@@ -17,3 +17,4 @@ some of the images taken while doing the project
 4. creating the static web page
 <img width="1080" alt="5th" src="https://user-images.githubusercontent.com/113987224/197352608-88d597c3-3fc6-42d5-8b5d-491cba452c76.png">
 5. sucessfully hosted the web page
+<img width="1080" alt="6th" src="https://user-images.githubusercontent.com/113987224/197352718-46131573-35a2-4209-9fab-850e3a589e9d.png">
